@@ -1,0 +1,7 @@
+* Getting around previously-encountered obstacles
+** Cannot resolve Google Map to type
+https://blog-emildesign.rhcloud.com/?p=435
+
+* Feature implementation
+** Making an HTTP Request
+http://stackoverflow.com/a/3506039
