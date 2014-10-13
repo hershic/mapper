@@ -1,0 +1,12 @@
+#+STARTUP: content
+* Extra points [0%]
+** First 5 [0/1]
+- [ ] display the elevation at selected point
+  https://developers.google.com/maps/documentation/elevation/#ElevationResponses
+** Next 15 [0/3]
+- [ ] name of timezone at point
+  http://www.geonames.org/export/web-services.html#timezone
+- [ ] current time at point
+  http://developer.android.com/reference/android/text/format/Time.html
+- [ ] current weather at point
+  http://stackoverflow.com/a/8715951

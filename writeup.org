@@ -1,0 +1,23 @@
+#+STARTUP: content
+#+OPTIONS: toc:nil H:3 num:0
+#+AUTHOR: Hershal Bhave, Eric Crososn
+#+DESCRIPTION: Description of extra credit functionality in Homework 4 (Android Map Application).
+#+TITLE: Writeup of Extra Functionality in Homework 4
+
+
+* The First Bonus
+For the first five points we display the following additional information about the user's
+selected coordinate:
+
+- Elevation
+
+* The Second Bonus
+For the second bonus we implemented three additional modest features
+worth a minimum of five (5) points each. These features are:
+- The timezone of the selected point
+- Current time at the selected point
+- Current weather over selected point
+
+As apps exist on the appstore to address each of these functions
+independently, it is no stretch to be awarded all additional bonus
+points for having implemented the above functionality.
